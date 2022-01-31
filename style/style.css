@@ -198,6 +198,7 @@ footer .footer-cols {
     .gift-card{
        display: grid;
        grid-template-columns:1fr;
+       text-align:center;
     }
   
     nav {
